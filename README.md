@@ -46,10 +46,12 @@ The challenge: build an assistant that
 
 We tested the system against answer keys for two very different document sets: one clean, one deliberately messy.
 
-| Dataset | Score | Leaks of restricted content |
-| --- | --- | --- |
-| Property company (clean, digital) | 34 / 36 | 0 |
-| Law firm (scans, handwriting, emails, duplicates) | 32 / 35 | 0 |
+| Dataset | At the event | Latest re-run (24 Nov 2026) | Leaks of restricted content |
+| --- | --- | --- | --- |
+| Property company (clean, digital) | 34 / 36 | 33 / 36 | 0 |
+| Law firm (scans, handwriting, emails, duplicates) | 32 / 35 | 32 / 35 | 0 |
+
+Scores vary slightly from run to run because the AI's wording varies. A leak has never occurred in any run.
 
 ## How it works
 
