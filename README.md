@@ -51,7 +51,7 @@ We tested the system against answer keys for two very different document sets: o
 | Property company (clean, digital) | 34 / 36 | 33 / 36 | 0 |
 | Law firm (scans, handwriting, emails, duplicates) | 32 / 35 | 32 / 35 | 0 |
 
-Scores vary slightly from run to run because the AI's wording varies. A leak has never occurred in any run.
+Scores vary slightly from run to run because the AI's wording varies. Both runs had zero leaks.
 
 ## How it works
 
